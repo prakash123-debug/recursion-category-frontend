@@ -1,0 +1,38 @@
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+
+
+.space-evenly { 
+  float: right;
+  margin-right:80px;
+}
+
+.flex-item {
+  padding: 5px;
+  width: 50px;
+  color:#ECF0F1;
+  height: 40px;
+  margin: 5px;
+  text-transform: none;
+  line-height: inherit;
+  text-align: center;
+}
+.flex-item:hover{
+  color:#2235a3;
+}
+.UserProfile {
+  text-decoration: none;
+  color:#ECF0F1;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.UserProfile:hover{
+  color:#2235a3;
+}
+.UserIcon{
+  color:#babac9
+}
