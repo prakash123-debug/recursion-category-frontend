@@ -32,13 +32,19 @@ const CategoryTable = ({show}) => {
     });
 
     return (
-      <div className="container">
-          <Row className="BreadcrumbStyle mt-4">
-            {nodes}
-        </Row>
+    
+          <div className="BreadcrumbStyle mt-4">
+      <Table className="table table-bordered w-100">
+             {nodes}
+      </Table>
       </div>
     );
 }
 
 export default CategoryTable;
 
+    // <div className="container">
+    //       <Row className="BreadcrumbStyle mt-4">
+      //       {nodes}
+      //   </Row>
+      // </div>

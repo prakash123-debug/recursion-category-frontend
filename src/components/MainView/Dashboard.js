@@ -16,7 +16,7 @@ import jwt_decode from "jwt-decode";
 
 //Tourism App
 import Home from "./Home/Home";
-import Category from "./TourismApp/Category/Category";
+import Category from "./CategoryApp/Category/Category";
 
 
 const Dashboard = ({ history, location, match }) => {

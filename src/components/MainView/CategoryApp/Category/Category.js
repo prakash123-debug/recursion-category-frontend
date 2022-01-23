@@ -2,10 +2,9 @@ import React, { useState } from "react";
 import Breadcrumb from "../../../BreadCrumb/Breadcrumb";
 import { Row, Col, Button } from "react-bootstrap";
 import { BsFillPlusCircleFill } from "react-icons/bs";
-import CategoryTable from "../../../Tables/TourismAppTable/CategoryTable/CategoryTable";
-import CategoryModal from "../../../Modals/TourismAppModal/CategoryModal/CategoryModal";
-import { useContextSelector } from "use-context-selector";
-import ChangeImage from "../../../../ChangeImage";
+import CategoryTable from "../../../Tables/CategoryAppTable/CategoryTable/CategoryTable";
+import CategoryModal from "../../../Modals/CategoryAppModal/CategoryModal/CategoryModal";
+
 
 const Category = () => {
   const crumbs = ["Home", "Categories", "category"];
