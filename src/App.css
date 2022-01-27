@@ -1,0 +1,17 @@
+.lists-style ul{
+  display:grid;
+ grid-template-columns:1fr 1fr 1fr;
+ width:100% !important;
+ background-color: transparent  !important;
+}
+.lists-style li{
+  height:100% !important;
+  background-color: transparent  !important;
+
+}
+.e-list-header{
+  margin-bottom: 20px;
+  background-color: transparent !important;
+}
+
+

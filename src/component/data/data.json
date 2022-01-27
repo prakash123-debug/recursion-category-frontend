@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Food",
+        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+        "child":[
+                    {
+                        "id":2,
+                        "name":"Daami food pvt.ltd",
+                        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                        "child":[
+                            {
+                                "id":3,
+                                "name":"Nepali Sittan",
+                                "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                                "child":[]
+                            }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Daami food pvt.ltd",
+                        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                        "child":[
+                            {
+                                "id":5,
+                                "name":"Nepali Sittan",
+                                "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                                "child":[]
+                            }
+                        ]
+                    }
+
+                ]
+
+
+    },
+    {
+        "id":6,
+        "name":"Grocery",
+        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+        "child":[
+                    {
+                        "id":7,
+                        "name":"Daami food pvt.ltd",
+                        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                        "child":[
+                            {
+                                "id":9,
+                                "name":"Nepali Sittan",
+                                "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                                "child":[]
+                            }
+                        ]
+                    },
+                    {
+                        "id":9,
+                        "name":"Daami food pvt.ltd",
+                        "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                        "child":[
+                            {
+                                "id":10,
+                                "name":"Nepali Sittan",
+                                "image":"lily-banse--YHSwy6uqvk-unsplash.jpg",
+                                "child":[]
+                            }
+                        ]
+                    }
+
+                ]
+
+
+    }
+]
