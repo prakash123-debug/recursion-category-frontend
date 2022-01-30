@@ -1,20 +1,42 @@
+
 [
     {
         "id":1,
         "name":"Momo",
         "categoryId":2,
-        "slug":"veg Momo"
+        "slug":"veg Momo",
+        "price":400
     },
     {
         "id":2,
         "name":"ASDF",
         "categoryId":2,
-        "slug":"veg Momo"
+        "slug":"veg Momo",
+        "price":200
     },
     {
         "id":3,
         "name":"Momo",
         "categoryId":3,
-        "slug":"veg Momo"
+        "slug":"veg Momo",
+        "price":200
+    }
+    ,
+    {
+        "id":4,
+        "name":"Momo",
+        "categoryId":3,
+        "slug":"veg Momo",
+        "price":200
+        
+    },
+    
+    {
+        "id":5,
+        "name":"Momo",
+        "categoryId":4,
+        "slug":"veg Momo",
+        "price":200
+
     }
 ]
